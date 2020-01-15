@@ -1,0 +1,2 @@
+# problema7
+triunghi
